@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T06:28:19.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="jMzw0FBEvAa3HprNUBk-" version="20.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T06:29:01.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="4m2CuYhaoI2WM7ZqaUDn" version="20.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7S5ToUFaWnlVdSLbU037-6" value="实时录制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="120" width="70" height="30" as="geometry" />
+          <mxGeometry x="80" y="120" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7S5ToUFaWnlVdSLbU037-8" value="人眼高速相机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="180" width="120" height="40" as="geometry" />
@@ -97,6 +97,9 @@
         </mxCell>
         <mxCell id="7S5ToUFaWnlVdSLbU037-31" value="标记分类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7S5ToUFaWnlVdSLbU037-33" value="训练产出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="555" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
